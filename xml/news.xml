@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <channel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="news.xsd">
+
+    <item>
+      <title> Twitter's New Retweet With Comment Counter Is Now Available On Andriod and Web</title>
+      <altTitle>Now you can see how many people retweeted your tweet with a comment too</altTitle>
+      <content>
+        Last week, Twitter rolled out a new feature to iOS, where you can see the number of times your tweet has been retweeted with a comment, now it is available on Android and iOS.
+      </content>
+      <createdDate>MAY 22, 2020</createdDate>
+      <category>Apps</category>
+    </item>
+
+    <item>
+      <title>Microsoft returns to Java with Azure-focused OpenJDK release</title>
+      <altTitle>It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud.</altTitle>
+      <content>A build of OpenJDK 11 is already available in the Azure Cloud Shell, so you can use it with jshell to try out code snippets.
+      </content>
+      <createdDate>APR 14, 2021</createdDate>
+      <category>Software</category>
+    </item>
+
+    <item>
+      <title>Gradle 7.0 improves incremental builds, backs Java 16</title>
+      <altTitle>New release of the build automation tool also improves support for Apple Silicon systems.</altTitle>
+      <content>With the Gradle 7.0 release, introduced April 9, file system watching is enabled by default, to make incremental builds quicker. The capability was introduced as an opt-in feature in Gradle 6.5 and deemed production-ready in Gradle 6.7.
+      </content>
+      <createdDate>APR 19, 2021</createdDate>
+      <category>Software</category>
+    </item>
+
+    <item>
+      <title>6 reasons to switch to managed Kubernetes</title>
+      <altTitle>Managed Kubernetes services have matured to the point where many enterprises are handing over the keys to their clusters.</altTitle>
+      <content>Kubernetes starting to use all three major cloud vendors for managed workloads where appropriate.
+      </content>
+      <createdDate>JUN 10, 2021</createdDate>
+      <category>DevOps</category>
+    </item>
+
+  </channel>
