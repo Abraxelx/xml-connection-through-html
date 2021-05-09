@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <channel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="news.xsd">
+  <channel xmlns:xsl="hhttp://www.w3.org/1999/XSL/Transform"
+ xsl:noNamespaceSchemaLocation="news.xsd">
+ 
 
     <item>
       <title> Twitter's New Retweet With Comment Counter Is Now Available On Andriod and Web</title>

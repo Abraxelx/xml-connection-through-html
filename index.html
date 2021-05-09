@@ -1,11 +1,26 @@
 <!DOCTYPE html>
  <html class="no-js">
-    <head>
+     <!--OPENGRAPH-->
+    <head prefix="og: http://ogp.me/ns#">
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome-1">
+        <title>Open Graph protocol examples</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Example HTML documents marked up with Open Graph protocol.">
+        <meta property="og:description" content="Example HTML documents marked up with Open Graph protocol.">
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:title" content="Open Graph protocol examples">
+        <meta property="og:site_name" content="Open Graph protocol examples">
+        <meta property="og:determiner" content="the">
+        <link rel="canonical" href="http://examples.opengraphprotocol.us/">
+        <meta property="og:url" content="http://examples.opengraphprotocol.us/">
+        <meta property="og:image" content="http://examples.opengraphprotocol.us/media/images/logo.png">
+        <meta property="og:image:secure_url" content="https://d72cgtgi6hvvl.cloudfront.net/media/images/logo.png">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="300">
+        <meta property="og:image:height" content="300">
         <link rel="stylesheet" href="main.css">
         <!-- google fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Raleway:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -72,9 +87,11 @@
             </div>
         </header>
 
+        <!-- MICRODATA EXAMPLE -->
+
         <section class = "banner">
-            <div class = "banner-main-content">
-                <h2>GET THE WORLD'S LATEST TECH NEWS</h2>
+            <div class = "banner-main-content" itemscope>
+                <h2>GET THE WORLD'S LATEST <span itemprop="title">TECH NEWS</span></h2>
                 <h3>World's Leading Tech News Portal</h3>
 
                 <button>Know More</button>
